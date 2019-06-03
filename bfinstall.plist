@@ -11,16 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<!-- <string>http://xxxxxxxxxxxxxxxxxxx/xxx.ipa</string> -->
 					<string>http://47.244.213.224:80/bf.ipa</string>
 				</dict>
-				<!-- <dict>
+				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://47.244.213.224:80/bf.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,8 +27,8 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
-				</dict> -->
+					<string>http://47.244.213.224:80/bf.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
