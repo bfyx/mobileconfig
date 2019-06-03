@@ -34,13 +34,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>app.xxx.frvrtest</string>
+				<string>com.cxlua.ltgwblua</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>乐淘游戏下载</string>
+				<string>乐淘游戏</string>
 			</dict>
 		</dict>
 	</array>
