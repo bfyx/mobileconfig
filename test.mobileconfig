@@ -11,8 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://169.254.13.18:8899/downLoad</string>
+					<!-- <string>http://xxxxxxxxxxxxxxxxxxx/xxx.ipa</string> -->
+					<string>http://169.254.13.18:8899/download.ipa</string>
 				</dict>
+				<!-- <dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+				</dict> -->
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -23,7 +40,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试</string>
+				<string>乐淘游戏</string>
 			</dict>
 		</dict>
 	</array>
