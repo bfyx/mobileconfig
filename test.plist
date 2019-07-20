@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.30.41.73:3000/bf.ipa</string>
+					<string>http://172.30.41.73:3000/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>必发游戏</string>
+				<string>什么游戏</string>
 			</dict>
 		</dict>
 	</array>
